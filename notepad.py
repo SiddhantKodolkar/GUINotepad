@@ -67,10 +67,12 @@ def about():
 def darkTheme():
     # TextArea.tag_config("here",background="black")
     # Text.config(foreground="white", background='black')
-    pass
+    # pass
+    TextArea.config(bg="#373737",fg="#FFFFFF",insertbackground="#FFFFFF")
+
 
 def lightTheme():
-    pass
+    TextArea.config(bg="#FFFFFF",fg="#000000",insertbackground="#000000")
 
 if __name__ == '__main__':
     #basic tkinter setup
