@@ -23,5 +23,9 @@ like :open(),close(),read(),write(),etc.to edit the files in our notepad.
 # UI
 Light mode:
 
+<img width="500" alt="2023-01-12 (5)" src="https://user-images.githubusercontent.com/111975032/212048502-dbabbb8e-a717-4fb0-aaff-8bde3114da83.png">
 
-<img width="510" alt="2023-01-12 (4)" src="https://user-images.githubusercontent.com/111975032/212047786-8746a0cd-4bbd-484d-a7ba-6bf68ad729bb.png">
+Dark mode:
+
+<img width="477" alt="2023-01-12 (3)" src="https://user-images.githubusercontent.com/111975032/212048050-2c264e9f-e60d-45e7-a896-cf94774798b0.png">
+
