@@ -1,5 +1,5 @@
-
-# Notepad Using GUI
+# Sem-4 Python Mini Project:
+# Notepad using GUI
 
 Creating a notepad using Tkinter GUI,this notepad GUI will consist of
 various menus like file and edit, using which all functionalities like saving
