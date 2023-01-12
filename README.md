@@ -21,5 +21,7 @@ files within a file path by doing listdir().We are going to use file operations
 like :open(),close(),read(),write(),etc.to edit the files in our notepad.
 
 # UI
-
 Light mode:
+
+
+<img width="510" alt="2023-01-12 (4)" src="https://user-images.githubusercontent.com/111975032/212047786-8746a0cd-4bbd-484d-a7ba-6bf68ad729bb.png">
