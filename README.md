@@ -19,3 +19,7 @@ use we find for it is to create folders, remove folders, move folders, and
 sometimes change the working directory. We can also access the names of
 files within a file path by doing listdir().We are going to use file operations
 like :open(),close(),read(),write(),etc.to edit the files in our notepad.
+
+# UI
+
+Light mode:
