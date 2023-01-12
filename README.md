@@ -30,7 +30,6 @@ Dark mode:
 <img width="477" alt="2023-01-12 (3)" src="https://user-images.githubusercontent.com/111975032/212048050-2c264e9f-e60d-45e7-a896-cf94774798b0.png">
 
 
-
 ## Authors
 
 <img width="476" alt="2023-01-12 (6)" src="https://user-images.githubusercontent.com/111975032/212050360-38e6c322-2f76-4253-a16a-f282cae10ba6.png">
