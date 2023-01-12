@@ -35,3 +35,6 @@ Dark mode:
 
 <img width="476" alt="2023-01-12 (6)" src="https://user-images.githubusercontent.com/111975032/212050360-38e6c322-2f76-4253-a16a-f282cae10ba6.png">
 
+
+- [@SiddhantKodolkar](https://github.com/SiddhantKodolkar)
+- [@Sahil-Madhyan](https://github.com/Sahil-Madhyan)
